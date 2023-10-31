@@ -445,7 +445,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #d59eff;
+  background: #23142e;
   margin: 4px 10px;
 }
 
@@ -550,7 +550,7 @@ section {
 
 .features .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #363636;
   margin-left: 60px;
 }
 
@@ -995,7 +995,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: ##c551ff;
+  color: #c551ff;
 }
 
 #footer .copyright {
